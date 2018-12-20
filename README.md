@@ -1,2 +1,2 @@
 # pcblog
-Pro_create Blog
+This Repository is for Project Create Blog
